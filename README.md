@@ -7,7 +7,6 @@
 </a>
 
 
-!!This app is currently not working!! Help appreciated...
 This app aims to provide summaries of Bible verses and chapters based on commentary from various sources.  
 I have given equal weighting to the insights from Matthew Poole, Matthew Henry, John Calvin, and David Guzik; blending their perspectives into a cohesive response.  
 
