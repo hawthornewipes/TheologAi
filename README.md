@@ -7,7 +7,7 @@
 </a>
 
 
-This app aims to provide summaries of Bible verses and chapters based on commentary from various sources.  
+This app aims to provide summaries of Bible verses based on commentary from various sources.  
 I have given equal weighting to the insights from Matthew Poole, Matthew Henry, John Calvin, and David Guzik; blending their perspectives into a cohesive response.  
 
 The resulting output reflects a balanced amalgamation of their interpretations and emphases; Synthesized through an AI language model.   
